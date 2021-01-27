@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8c14117-c17d-49e8-b48f-adb5095e3bae" name="Default Changelist" comment="v1.0.1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nej3sdJu8LWA5cxOlxjMpPZSk1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8c14117-c17d-49e8-b48f-adb5095e3bae" name="Default Changelist" comment="" />
+      <created>1611757254213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611757254213</updated>
+      <workItem from="1611757255767" duration="394000" />
+      <workItem from="1611762619150" duration="957000" />
+      <workItem from="1611753287151" duration="1372000" />
+    </task>
+    <task id="LOCAL-00001" summary="v1">
+      <created>1611757622693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611757622693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v1.0.1">
+      <created>1611754789096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611754789096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="v1" />
+    <MESSAGE value="v1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="137" key="CommitChangelistDialog2" timestamp="1611754831707">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="371" y="137" key="CommitChangelistDialog2/0.23.1792.1033@0.23.1792.1033" timestamp="1611754831707" />
+    <state x="371" y="137" key="CommitChangelistDialog2/1792.-297.2560.1417/0.23.1792.1033@0.23.1792.1033" timestamp="1611757622502" />
+    <state x="180" y="115" key="DiffContextDialog" timestamp="1611754787071">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="180" y="115" key="DiffContextDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1611754787071" />
+    <state x="180" y="115" key="DiffContextDialog/1792.-297.2560.1417/0.23.1792.1033@0.23.1792.1033" timestamp="1611757578434" />
+    <state x="273" y="91" key="SettingsEditor" timestamp="1611757538684">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="273" y="91" key="SettingsEditor/1792.-297.2560.1417/0.23.1792.1033@0.23.1792.1033" timestamp="1611757538684" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1611757400128">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/1792.-297.2560.1417/0.23.1792.1033@0.23.1792.1033" timestamp="1611757400128" />
+  </component>
+</project>

@@ -1,0 +1,32 @@
+{
+  "name": "gitbook-plugin-single-page",
+  "version": "1.0.2",
+  "description": "基于Gitbook实现的单页面插件，可以实现隐藏侧边栏、头部、和左右导航",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo welcome to use gitbook-plugin-single-page created by crazycodeboy"
+  },
+  "engines": {
+    "gitbook": ">=2.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazycodeboy/gitbook-plugin-single-page.git"
+  },
+  "keywords": [
+    "gitbook-plugin-single-page",
+    "gitbook-plugin",
+    "copyright",
+    "website",
+    "wechat"
+  ],
+  "author": {
+    "name": "crazycodeboy",
+    "email": "crazycodeboy@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crazycodeboy/gitbook-plugin-single-page/issues"
+  },
+  "homepage": "https://github.com/crazycodeboy/gitbook-plugin-single-page"
+}
